@@ -3,31 +3,6 @@
 
 ---
 
-## Table of Contents
-
-1. [What is CMake & How It Works](#1-what-is-cmake--how-it-works)
-2. [Installation & Setup](#2-installation--setup)
-3. [Your First CMakeLists.txt](#3-your-first-cmakeliststxt)
-4. [Project Structure & Basics](#4-project-structure--basics)
-5. [Targets — Executables & Libraries](#5-targets--executables--libraries)
-6. [Target Properties & Visibility](#6-target-properties--visibility)
-7. [Variables & Cache](#7-variables--cache)
-8. [Control Flow](#8-control-flow)
-9. [Functions & Macros](#9-functions--macros)
-10. [Finding External Dependencies](#10-finding-external-dependencies)
-11. [FetchContent & CPM (Dependency Management)](#11-fetchcontent--cpm-dependency-management)
-12. [Installing & Packaging](#12-installing--packaging)
-13. [Testing with CTest](#13-testing-with-ctest)
-14. [Generator Expressions](#14-generator-expressions)
-15. [Toolchains & Cross-Compilation](#15-toolchains--cross-compilation)
-16. [CMake Presets](#16-cmake-presets)
-17. [Useful Built-in Modules](#17-useful-built-in-modules)
-18. [Real-World Project Layout](#18-real-world-project-layout)
-19. [Best Practices & Common Pitfalls](#19-best-practices--common-pitfalls)
-20. [Quick Reference Card](#20-quick-reference-card)
-
----
-
 ## 1. What is CMake & How It Works
 
 CMake is a **build system generator** — it doesn't build your code directly. Instead it reads your `CMakeLists.txt` files and generates native build files for whatever build system you're using (Make, Ninja, Visual Studio, Xcode, etc.).
