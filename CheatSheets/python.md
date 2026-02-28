@@ -3,33 +3,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Installation & Setup](#1-installation--setup)
-2. [Python Basics](#2-python-basics)
-3. [Data Types & Variables](#3-data-types--variables)
-4. [Strings](#4-strings)
-5. [Collections — List, Tuple, Set, Dict](#5-collections--list-tuple-set-dict)
-6. [Control Flow](#6-control-flow)
-7. [Functions](#7-functions)
-8. [Comprehensions](#8-comprehensions)
-9. [Object-Oriented Programming](#9-object-oriented-programming)
-10. [Modules & Packages](#10-modules--packages)
-11. [File I/O](#11-file-io)
-12. [Error Handling & Exceptions](#12-error-handling--exceptions)
-13. [Iterators & Generators](#13-iterators--generators)
-14. [Decorators](#14-decorators)
-15. [Context Managers](#15-context-managers)
-16. [Functional Programming](#16-functional-programming)
-17. [Type Hints & Annotations](#17-type-hints--annotations)
-18. [Concurrency — Threads, Async, Multiprocessing](#18-concurrency--threads-async-multiprocessing)
-19. [The Standard Library](#19-the-standard-library)
-20. [Testing](#20-testing)
-21. [Virtual Environments & Packaging](#21-virtual-environments--packaging)
-22. [Performance & Best Practices](#22-performance--best-practices)
-
----
-
 ## 1. Installation & Setup
 
 ### Installing Python
