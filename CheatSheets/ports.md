@@ -3,19 +3,6 @@
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [TCP vs UDP](#tcp-vs-udp)
-- [Common Ports](#common-ports)
-- [Web & Email](#web--email)
-- [File Transfer & Remote Access](#file-transfer--remote-access)
-- [Database & Directory Services](#database--directory-services)
-- [Streaming & Media](#streaming--media)
-- [Quick Reference](#quick-reference)
-- [Port Scanning Commands](#port-scanning-commands)
-
----
-
 ## Overview
 
 **What are Ports?** Network ports are virtual endpoints for communication. They range from 0–65535 and help route network traffic to the correct service or application.
