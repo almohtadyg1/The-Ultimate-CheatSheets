@@ -3,31 +3,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Environment Setup & Compilation](#1-environment-setup--compilation)
-2. [Program Structure & Basics](#2-program-structure--basics)
-3. [Data Types & Variables](#3-data-types--variables)
-4. [Operators](#4-operators)
-5. [Control Flow](#5-control-flow)
-6. [Functions](#6-functions)
-7. [Arrays](#7-arrays)
-8. [Pointers](#8-pointers)
-9. [Strings](#9-strings)
-10. [Structures, Unions & Enums](#10-structures-unions--enums)
-11. [Dynamic Memory Management](#11-dynamic-memory-management)
-12. [File I/O](#12-file-io)
-13. [Preprocessor & Macros](#13-preprocessor--macros)
-14. [Bitwise Operations & Bit Fields](#14-bitwise-operations--bit-fields)
-15. [Advanced Pointers & Function Pointers](#15-advanced-pointers--function-pointers)
-16. [Linked Lists & Data Structures](#16-linked-lists--data-structures)
-17. [Error Handling & Debugging](#17-error-handling--debugging)
-18. [C Standard Library Deep Dive](#18-c-standard-library-deep-dive)
-19. [Advanced Topics](#19-advanced-topics)
-20. [Best Practices, Security & Performance](#20-best-practices-security--performance)
-
----
-
 ## 1. Environment Setup & Compilation
 
 ### Installing GCC
