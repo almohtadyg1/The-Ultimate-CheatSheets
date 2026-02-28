@@ -3,31 +3,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Environment Setup & Compilation](#1-environment-setup--compilation)
-2. [Program Structure & Basics](#2-program-structure--basics)
-3. [Data Types & Variables](#3-data-types--variables)
-4. [Operators](#4-operators)
-5. [Control Flow](#5-control-flow)
-6. [Functions](#6-functions)
-7. [Arrays & Strings](#7-arrays--strings)
-8. [Pointers & References](#8-pointers--references)
-9. [Dynamic Memory Management](#9-dynamic-memory-management)
-10. [Object-Oriented Programming](#10-object-oriented-programming)
-11. [Operator Overloading](#11-operator-overloading)
-12. [Templates & Generic Programming](#12-templates--generic-programming)
-13. [Standard Template Library (STL)](#13-standard-template-library-stl)
-14. [Exception Handling](#14-exception-handling)
-15. [File I/O](#15-file-io)
-16. [Modern C++ (C++11/14/17/20)](#16-modern-c-c111417-20)
-17. [Concurrency & Multithreading](#17-concurrency--multithreading)
-18. [Move Semantics & Perfect Forwarding](#18-move-semantics--perfect-forwarding)
-19. [Design Patterns in C++](#19-design-patterns-in-c)
-20. [Best Practices & Performance](#20-best-practices--performance)
-
----
-
 ## 1. Environment Setup & Compilation
 
 ### Installing a Compiler
