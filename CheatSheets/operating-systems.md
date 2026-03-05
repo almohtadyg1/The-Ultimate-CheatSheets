@@ -1,4 +1,4 @@
-# 🖥️ The Complete Operating Systems Cheat Sheet
+# The Complete Operating Systems Cheat Sheet
 ### From Zero to Expert
 
 ---
