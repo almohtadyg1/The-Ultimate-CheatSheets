@@ -1,4 +1,4 @@
-# 🖥️ The Complete Computer Architecture Cheat Sheet
+# The Complete Computer Architecture Cheat Sheet
 ### From Zero to Expert
 
 ---
