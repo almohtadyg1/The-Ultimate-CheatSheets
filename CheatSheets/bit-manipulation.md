@@ -1,4 +1,4 @@
-# ⚙️ The Complete Bit Manipulation Cheat Sheet
+# The Complete Bit Manipulation Cheat Sheet
 ### From Zero to Expert
 
 ---
