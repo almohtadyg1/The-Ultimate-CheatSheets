@@ -1,4 +1,4 @@
-# 🧠 The Ultimate Git Cheat Sheet
+# The Ultimate Git Cheat Sheet
 > From zero to expert — everything you need to understand and master Git.
 
 ---
