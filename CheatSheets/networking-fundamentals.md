@@ -1,4 +1,4 @@
-# 🌐 The Complete Networking Fundamentals Cheat Sheet
+# The Complete Networking Fundamentals Cheat Sheet
 ### From Zero to Expert
 
 ---
