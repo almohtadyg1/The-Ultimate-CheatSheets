@@ -1,4 +1,4 @@
-# 🎨 The Complete CSS Cheat Sheet
+# The Complete CSS Cheat Sheet
 ### From Zero to Expert
 
 ---
