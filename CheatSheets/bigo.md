@@ -1,4 +1,4 @@
-# ⏱️ The Complete Big O Notation Cheat Sheet
+# The Complete Big O Notation Cheat Sheet
 ### From Zero to Expert
 
 ---
