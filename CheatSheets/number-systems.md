@@ -1,4 +1,4 @@
-# 🔢 The Complete Number Systems Cheat Sheet
+# The Complete Number Systems Cheat Sheet
 ### From Zero to Expert
 
 ---
