@@ -21,6 +21,7 @@ This repository is designed to be a quick reference hub for developers. Whether 
 - DevOps & Tools
 - System Design
 - Best Practices
+- AI & Prompt Engineering
 - And much more...
 
 ## 🎯 Goal
